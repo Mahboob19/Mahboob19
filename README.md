@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahboob Hasan and I'm a Web Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Mahboob Hasan and I'm a Web Developer and Software Engineer, from India</h2>
 
 ###
 
